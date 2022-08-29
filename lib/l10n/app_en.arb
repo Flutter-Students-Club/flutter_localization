@@ -1,0 +1,10 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "openDatePicker": "Open Date Picker!",
+    "left": "Left!",
+    "right": "Right!",
+    "textField": "This is Text Field!"
+}
